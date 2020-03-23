@@ -13,6 +13,7 @@
 # Ramas
 * Crear una rama: `git checkout -b <branch_name>`
 * Cambiar de rama: `git checkout <branch_name>`
+* Merge (traer contenido desde rama <branch_name> a rama actual): `git merge <branch_name>`
 
 ## REGLA DE ORO
 
