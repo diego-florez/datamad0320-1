@@ -8,7 +8,11 @@
 * Ver los repos remotos vinculados: `git remote -v`
 * Añadir un remoto: `git remote add <remote_name> <git_url>`
 * Pushear codigo a remoto: `git push origin master` `git push <remote_name> <branch_name`
-* 
+* Clonar un repositorio: `git clone <repo_url>`
+  
+# Ramas
+* Crear una rama: `git checkout -b <branch_name>`
+* Cambiar de rama: `git checkout <branch_name>`
 
 ## REGLA DE ORO
 
